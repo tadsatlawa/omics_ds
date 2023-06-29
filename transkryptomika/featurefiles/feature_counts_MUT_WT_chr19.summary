@@ -1,0 +1,15 @@
+Status	RAG_F11_0006_P01_V11.bam	RAG_F11_0008_P01_V11.bam	RAG_F11_0010_P01_V11.bam	RAG_F31_0005_P01_V11.bam	RAG_F31_0007_P01_V11.bam	RAG_F31_0009_P01_V11.bam
+Assigned	16811099	18317209	15806400	17012754	14826295	18091989
+Unassigned_Unmapped	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	7212872	5684824	6196946	3447709	4096267	7221049
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	879011	971211	811292	938924	797381	843506
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	556424	612990	523737	547634	503421	613255
