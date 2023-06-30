@@ -1,6 +1,3 @@
-## Linijka 456 oraz kk1
-
-
 
 # Rozwiazanie do zadania z transkryptomiki
 
