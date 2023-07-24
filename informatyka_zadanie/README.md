@@ -2,10 +2,9 @@
 
 1. `./get_files.sh`
 2. `./extract_sequences.sh mouse.1.protein.faa sample_100 ">" 100`
-3. `./create_db.sh`
-4. `./create_db.sh zebrafish.1.protein.faa zebrafish_db`
-5. `sbatch -p topola script.sbatch` --> creates out file and slurm-*.out
-6. `./count_sequences.sh mouse.*`  --> 90730
+3. `./create_db.sh zebrafish.1.protein.faa zebrafish_db`
+4. `sbatch -p topola script.sbatch` --> creates out file and slurm-*.out
+5. `./count_sequences.sh mouse.*`  --> 90730
 
 Output dla próbki 100 sekwencji
 - rozmiar: 32MB
